@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Salman_Assignment/Pods-Salman_Assignment-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Loaf/Loaf.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/youtube-ios-player-helper/youtube_ios_player_helper.framework
